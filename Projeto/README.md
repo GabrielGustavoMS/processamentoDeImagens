@@ -1,4 +1,4 @@
-# [ProcessadorDeImagemRGB] - [Desenvolvido por:] - Gabriel Gustavo M. da Silva. [RGM:] 1934370-1.
+# [ProcessadorDeImagemRGB] - [Desenvolvido por:] - Gabriel Gustavo M. da Silva. 
 * Ciência da Computação - 2020. 
 
 [Projeto1 - Conversor de imagens em RGB para GrayScale e Black-and-White ] - Esse projeto foi desenvolvido com base nas diretrizes, descritas no pdf disponibilizado pelo professor. 
