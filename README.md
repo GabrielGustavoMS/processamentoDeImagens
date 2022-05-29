@@ -1,4 +1,7 @@
 # Processamento de Imagens
+![Lena Söderberg](./LenaSöderberg.jpg)
+
+_[Lena Söderberg](https://en.wikipedia.org/wiki/Lenna)_
 
 Esse repositório contém desafios e projetos desenvolvidos em 2020, durante a disciplina de Processamento de Imagens do curso de Ciências da Computação da Universidade Cruzeiro do Sul. 
 
