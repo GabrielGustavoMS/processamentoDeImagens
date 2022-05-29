@@ -28,7 +28,7 @@ _Fonte: Elaborada pelo Autor_
 
 _Fonte: [pexels.com](https://www.pexels.com/pt-br/)_
 
-Selecionou-se essa colorida imagem (original) para demonstrar o software.
+Selecionou-se essa imagem colorida (original) para demonstrar o software.
 
 ### Imagem processada em Tons de Cinza
 
